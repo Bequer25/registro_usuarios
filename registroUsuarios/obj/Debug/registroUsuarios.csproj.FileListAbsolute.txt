@@ -1,0 +1,88 @@
+C:\Users\Bequer Acosta\Desktop\registroUsuarios\registroUsuarios\bin\Debug\registroUsuarios.exe.config
+C:\Users\Bequer Acosta\Desktop\registroUsuarios\registroUsuarios\bin\Debug\registroUsuarios.exe
+C:\Users\Bequer Acosta\Desktop\registroUsuarios\registroUsuarios\bin\Debug\registroUsuarios.pdb
+C:\Users\Bequer Acosta\Desktop\registroUsuarios\registroUsuarios\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Bequer Acosta\Desktop\registroUsuarios\registroUsuarios\bin\Debug\Google.Protobuf.dll
+C:\Users\Bequer Acosta\Desktop\registroUsuarios\registroUsuarios\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Bequer Acosta\Desktop\registroUsuarios\registroUsuarios\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Bequer Acosta\Desktop\registroUsuarios\registroUsuarios\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Bequer Acosta\Desktop\registroUsuarios\registroUsuarios\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Bequer Acosta\Desktop\registroUsuarios\registroUsuarios\bin\Debug\MySql.Data.dll
+C:\Users\Bequer Acosta\Desktop\registroUsuarios\registroUsuarios\bin\Debug\System.Buffers.dll
+C:\Users\Bequer Acosta\Desktop\registroUsuarios\registroUsuarios\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Bequer Acosta\Desktop\registroUsuarios\registroUsuarios\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Bequer Acosta\Desktop\registroUsuarios\registroUsuarios\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Bequer Acosta\Desktop\registroUsuarios\registroUsuarios\bin\Debug\System.Memory.dll
+C:\Users\Bequer Acosta\Desktop\registroUsuarios\registroUsuarios\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Bequer Acosta\Desktop\registroUsuarios\registroUsuarios\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Bequer Acosta\Desktop\registroUsuarios\registroUsuarios\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Bequer Acosta\Desktop\registroUsuarios\registroUsuarios\bin\Debug\ZstdSharp.dll
+C:\Users\Bequer Acosta\Desktop\registroUsuarios\registroUsuarios\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Bequer Acosta\Desktop\registroUsuarios\registroUsuarios\bin\Debug\Google.Protobuf.pdb
+C:\Users\Bequer Acosta\Desktop\registroUsuarios\registroUsuarios\bin\Debug\Google.Protobuf.xml
+C:\Users\Bequer Acosta\Desktop\registroUsuarios\registroUsuarios\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Bequer Acosta\Desktop\registroUsuarios\registroUsuarios\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Bequer Acosta\Desktop\registroUsuarios\registroUsuarios\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Bequer Acosta\Desktop\registroUsuarios\registroUsuarios\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Bequer Acosta\Desktop\registroUsuarios\registroUsuarios\bin\Debug\MySql.Data.xml
+C:\Users\Bequer Acosta\Desktop\registroUsuarios\registroUsuarios\bin\Debug\System.Buffers.xml
+C:\Users\Bequer Acosta\Desktop\registroUsuarios\registroUsuarios\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Bequer Acosta\Desktop\registroUsuarios\registroUsuarios\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Bequer Acosta\Desktop\registroUsuarios\registroUsuarios\bin\Debug\System.Memory.xml
+C:\Users\Bequer Acosta\Desktop\registroUsuarios\registroUsuarios\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Bequer Acosta\Desktop\registroUsuarios\registroUsuarios\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Bequer Acosta\Desktop\registroUsuarios\registroUsuarios\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Bequer Acosta\Desktop\registroUsuarios\registroUsuarios\obj\Debug\registroUsuarios.csproj.AssemblyReference.cache
+C:\Users\Bequer Acosta\Desktop\registroUsuarios\registroUsuarios\obj\Debug\registroUsuarios.Form1.resources
+C:\Users\Bequer Acosta\Desktop\registroUsuarios\registroUsuarios\obj\Debug\registroUsuarios.Properties.Resources.resources
+C:\Users\Bequer Acosta\Desktop\registroUsuarios\registroUsuarios\obj\Debug\registroUsuarios.csproj.GenerateResource.cache
+C:\Users\Bequer Acosta\Desktop\registroUsuarios\registroUsuarios\obj\Debug\registroUsuarios.csproj.CoreCompileInputs.cache
+C:\Users\Bequer Acosta\Desktop\registroUsuarios\registroUsuarios\obj\Debug\registroUsuarios.csproj.CopyComplete
+C:\Users\Bequer Acosta\Desktop\registroUsuarios\registroUsuarios\obj\Debug\registroUsuarios.exe
+C:\Users\Bequer Acosta\Desktop\registroUsuarios\registroUsuarios\obj\Debug\registroUsuarios.pdb
+C:\Users\Bequer Acosta\Desktop\registroUsuarios\registroUsuarios\obj\Debug\registroUsuarios.UsuariosRegistrados.resources
+C:\Users\Bequer Acosta\Desktop\registroUsuarios\registroUsuarios\obj\Debug\registroUsuarios.InformacionUsuario.resources
+C:\Users\Bequer Acosta\Desktop\registroUsuarios - Padron singleton\registroUsuarios\bin\Debug\registroUsuarios.exe.config
+C:\Users\Bequer Acosta\Desktop\registroUsuarios - Padron singleton\registroUsuarios\bin\Debug\registroUsuarios.exe
+C:\Users\Bequer Acosta\Desktop\registroUsuarios - Padron singleton\registroUsuarios\bin\Debug\registroUsuarios.pdb
+C:\Users\Bequer Acosta\Desktop\registroUsuarios - Padron singleton\registroUsuarios\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Bequer Acosta\Desktop\registroUsuarios - Padron singleton\registroUsuarios\bin\Debug\Google.Protobuf.dll
+C:\Users\Bequer Acosta\Desktop\registroUsuarios - Padron singleton\registroUsuarios\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Bequer Acosta\Desktop\registroUsuarios - Padron singleton\registroUsuarios\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Bequer Acosta\Desktop\registroUsuarios - Padron singleton\registroUsuarios\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Bequer Acosta\Desktop\registroUsuarios - Padron singleton\registroUsuarios\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Bequer Acosta\Desktop\registroUsuarios - Padron singleton\registroUsuarios\bin\Debug\MySql.Data.dll
+C:\Users\Bequer Acosta\Desktop\registroUsuarios - Padron singleton\registroUsuarios\bin\Debug\System.Buffers.dll
+C:\Users\Bequer Acosta\Desktop\registroUsuarios - Padron singleton\registroUsuarios\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Bequer Acosta\Desktop\registroUsuarios - Padron singleton\registroUsuarios\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Bequer Acosta\Desktop\registroUsuarios - Padron singleton\registroUsuarios\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Bequer Acosta\Desktop\registroUsuarios - Padron singleton\registroUsuarios\bin\Debug\System.Memory.dll
+C:\Users\Bequer Acosta\Desktop\registroUsuarios - Padron singleton\registroUsuarios\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Bequer Acosta\Desktop\registroUsuarios - Padron singleton\registroUsuarios\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Bequer Acosta\Desktop\registroUsuarios - Padron singleton\registroUsuarios\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Bequer Acosta\Desktop\registroUsuarios - Padron singleton\registroUsuarios\bin\Debug\ZstdSharp.dll
+C:\Users\Bequer Acosta\Desktop\registroUsuarios - Padron singleton\registroUsuarios\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Bequer Acosta\Desktop\registroUsuarios - Padron singleton\registroUsuarios\bin\Debug\Google.Protobuf.pdb
+C:\Users\Bequer Acosta\Desktop\registroUsuarios - Padron singleton\registroUsuarios\bin\Debug\Google.Protobuf.xml
+C:\Users\Bequer Acosta\Desktop\registroUsuarios - Padron singleton\registroUsuarios\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Bequer Acosta\Desktop\registroUsuarios - Padron singleton\registroUsuarios\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Bequer Acosta\Desktop\registroUsuarios - Padron singleton\registroUsuarios\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Bequer Acosta\Desktop\registroUsuarios - Padron singleton\registroUsuarios\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Bequer Acosta\Desktop\registroUsuarios - Padron singleton\registroUsuarios\bin\Debug\MySql.Data.xml
+C:\Users\Bequer Acosta\Desktop\registroUsuarios - Padron singleton\registroUsuarios\bin\Debug\System.Buffers.xml
+C:\Users\Bequer Acosta\Desktop\registroUsuarios - Padron singleton\registroUsuarios\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Bequer Acosta\Desktop\registroUsuarios - Padron singleton\registroUsuarios\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Bequer Acosta\Desktop\registroUsuarios - Padron singleton\registroUsuarios\bin\Debug\System.Memory.xml
+C:\Users\Bequer Acosta\Desktop\registroUsuarios - Padron singleton\registroUsuarios\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Bequer Acosta\Desktop\registroUsuarios - Padron singleton\registroUsuarios\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Bequer Acosta\Desktop\registroUsuarios - Padron singleton\registroUsuarios\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Bequer Acosta\Desktop\registroUsuarios - Padron singleton\registroUsuarios\obj\Debug\registroUsuarios.csproj.AssemblyReference.cache
+C:\Users\Bequer Acosta\Desktop\registroUsuarios - Padron singleton\registroUsuarios\obj\Debug\registroUsuarios.Form1.resources
+C:\Users\Bequer Acosta\Desktop\registroUsuarios - Padron singleton\registroUsuarios\obj\Debug\registroUsuarios.InformacionUsuario.resources
+C:\Users\Bequer Acosta\Desktop\registroUsuarios - Padron singleton\registroUsuarios\obj\Debug\registroUsuarios.Properties.Resources.resources
+C:\Users\Bequer Acosta\Desktop\registroUsuarios - Padron singleton\registroUsuarios\obj\Debug\registroUsuarios.UsuariosRegistrados.resources
+C:\Users\Bequer Acosta\Desktop\registroUsuarios - Padron singleton\registroUsuarios\obj\Debug\registroUsuarios.csproj.GenerateResource.cache
+C:\Users\Bequer Acosta\Desktop\registroUsuarios - Padron singleton\registroUsuarios\obj\Debug\registroUsuarios.csproj.CoreCompileInputs.cache
+C:\Users\Bequer Acosta\Desktop\registroUsuarios - Padron singleton\registroUsuarios\obj\Debug\registroUsuarios.csproj.CopyComplete
+C:\Users\Bequer Acosta\Desktop\registroUsuarios - Padron singleton\registroUsuarios\obj\Debug\registroUsuarios.exe
+C:\Users\Bequer Acosta\Desktop\registroUsuarios - Padron singleton\registroUsuarios\obj\Debug\registroUsuarios.pdb
